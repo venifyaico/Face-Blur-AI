@@ -6,8 +6,8 @@ Ideal for developers building tools for content moderation, privacy compliance (
 
 ---
 <p float="left">
-<img width="400" height="360" alt="blur_face_15487215" src="https://github.com/user-attachments/assets/f0d0145e-4215-49a8-ab62-a415a9cfea4e" /> 
-<img width="400" height="360" alt="blur_face_14527844" src="https://github.com/user-attachments/assets/b4ed9475-6b65-4fa9-9f84-c002e96cda82" />
+<img width="450" height="360" alt="blur_face_15487215" src="https://github.com/user-attachments/assets/f0d0145e-4215-49a8-ab62-a415a9cfea4e" /> 
+<img width="450" height="360" alt="blur_face_14527844" src="https://github.com/user-attachments/assets/b4ed9475-6b65-4fa9-9f84-c002e96cda82" />
 </p>
 
 
